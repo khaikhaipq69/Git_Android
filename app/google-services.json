@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "134612775937",
+    "project_id": "prj1-feca5",
+    "storage_bucket": "prj1-feca5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134612775937:android:1c47dd1a52b45ba06ebc00",
+        "android_client_info": {
+          "package_name": "com.hnq40.app1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkEAxbOyMWxVcrKrcp9-dkr3c9iNybNks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
